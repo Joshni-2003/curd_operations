@@ -1,0 +1,7 @@
+web: gunicorn myproject.wsgi
+
+
+
+git add .
+git commit -m "Added requirements and procfile for Render deployment"
+git push 
